@@ -1,3 +1,5 @@
+ [![HitCount](https://hits.dwyl.com/JefferGonzalez/JefferGonzalez.svg?style=flat-square)](http://hits.dwyl.com/JefferGonzalez/JefferGonzalez)
+
 - 👋 Hi, I’m @JefferGonzalez
 - 👀 I’m interested in learn to code and videogames.
 - 🌱 I’m currently learning english, HTML5, CSS3, JavaScript, JAVA, PHP, SQL and DataBase Managers,  
