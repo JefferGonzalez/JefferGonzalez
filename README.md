@@ -1,4 +1,4 @@
- [![HitCount](https://hits.dwyl.com/JefferGonzalez/JefferGonzalez.svg?style=flat-square)](http://hits.dwyl.com/JefferGonzalez/JefferGonzalez)
+[![HitCount](https://hits.dwyl.com/JefferGonzalez/JefferGonzalez.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JefferGonzalez/JefferGonzalez)
 
 - 👋 Hi, I’m @JefferGonzalez
 - 👀 I’m interested in learn to code and videogames.
