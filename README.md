@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JefferGonzalez&style=for-the-badge&color=ff0000)
 - 👀 I’m interested in learn to code.
+- 👾 I’m currently working on a social network with PERN Stack.
 - 🌱 I’m currently learning english, JavaScript (Express, React).  
 - 📫 How to reach me: jefferd2016@gmail.com
 
