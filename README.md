@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I’m Jeffer</h1>
 
-![](https://komarev.com/ghpvc/?username=JefferGonzalez&style=for-the-badge&color=ff0000)
 - 👀 I’m interested in learn to code.
-- 👾 I’m currently working on a social network with PERN Stack.
-- 🌱 I’m currently learning english, JavaScript (Express, React).  
+- 👾 I'm currently working on myself.
+- 🌱 I’m currently learning english, JavaScript (Express, React).
 - 📫 How to reach me: jefferd2016@gmail.com
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
@@ -19,8 +18,3 @@
 <a href="https://es.reactjs.org/" target="_blanck" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React.js" height=32> </a> 
 <a href="https://www.mysql.com/" target="_blanck" rel="noreferrer"> <img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="MySQL" height=32> </a> 
 <a href="https://www.postgresql.org/" target="_blanck" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height=32> </a>
-
-<!---
-JefferGonzalez/JefferGonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
