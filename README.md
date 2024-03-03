@@ -14,7 +14,7 @@
       />
       <span>ABOUT</span>
     </summary>
-    <h4 align="center">
+    <h3 align="center">
       Full Stack Developer |
       <a
         href="https://jeffer.dev/"
@@ -31,7 +31,7 @@
         rel="noopener noreferrer">
           Curriculum Vitae
         </a>
-    </h4>
+    </h3>
   </details>
 
 </div>
@@ -53,28 +53,29 @@
 
 - **Languages**:
 
-  ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logoColor=white&color=d96e0a)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-E97A13.svg?style=for-the-badge&logoColor=white&color=d96e0a)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Full Stack Development**:
 
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E54C21.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS-214CE5.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F2CF5.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React.js](https://img.shields.io/badge/React.js-23272F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%2343853D.svg?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6CB52D.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-026E00.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
-  ![MySQL](https://img.shields.io/badge/MySQL%20-%234169E1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-43B049?style=for-the-badge&logo=Sequelize&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-1A202C?style=for-the-badge&logo=Prisma&logoColor=white)
 
 - **Learning**:
 
-  ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-E53A9D?style=for-the-badge&logo=astro&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
     </p>
   </details>
